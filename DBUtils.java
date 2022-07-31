@@ -1,3 +1,1 @@
-java class contains the DB related code
-efef
-updated one 
+java class contains the DB related  
